@@ -1,0 +1,29 @@
+Is it a subsequence Ended
+Description
+
+Given two strings, s1 and s2, you need to print YES if s1 is a subsequence of s2 else NO.
+
+
+Input
+1<=T<=10
+
+1<=|S1|<=100
+
+1<=|S2|<=10000
+
+
+Output
+output YES or NO for each test case.
+
+
+Sample Input 1 
+
+2
+abc
+adbce
+ax
+xaa
+Sample Output 1
+
+YES
+NO

@@ -1,0 +1,46 @@
+Spiderman in Patna! Ended
+Description
+
+There are N buildings in Patna, numbered 1,2,…,N. For each i (1≤i≤N), the height of building i is hi.
+
+Spiderman has come to visit Patna and as you know he has a superpower of jumping from one building to the other
+
+He is initially on building 1. He will repeat the following action some number of times to reach building N:
+
+If he is currently on building i, jump to building i+1 or building i+2.
+
+Here, a cost of |hi−hj| is incurred, where j is the building to land on where |hi - hj| is the absolute difference between the heights of buildings
+
+Find the minimum possible total cost incurred before the Spiderman reaches building N.
+
+
+Input
+Input Format :
+
+First line contains N which is the number of buildings in Patna
+
+Second line contains n space separated integers representing h[i]
+
+Constraints :
+
+2≤N≤100000
+
+1≤hi≤10000
+
+
+Output
+Print the minimum possible total cost incurred.
+
+
+Sample Input 1 
+
+4
+10 30 40 20
+Sample Output 1
+
+30
+Hint
+
+Output Explanation :
+
+If we follow the path 1 → 2 → 4, the total cost incurred would be |10−30| + |30−20| = 30.
