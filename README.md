@@ -4,7 +4,7 @@ A curated list of awesome `Competitive Programming`, `Algorithm` and `Data Struc
 
 Created with a view to connecting people to information, this list below contains a complete collection of all the fantastic resources I've collected tat course from Masai School Practice Contest. I hope you'll find it useful :)
 
-[What is competitive programming? - OJ](https://www.quora.com/What-is-competitive-programming-2)
+[Follow me on- Linkedin](https://www.linkedin.com/mwlite/in/rakesh-kumar-swain-8259a7164)
 
 
 ## Contributing
