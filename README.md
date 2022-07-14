@@ -22,7 +22,7 @@ Share the list with your classmates, your friends and everyone :)
 ### Interview Questions
 | Name | Description |
 | --- | --- |
-| [Oj](https://oj.masaischool.com) | The most popular website for software engineering interview preparation. | 
+| [Oj](https://oj.masaischool.com) | The most popular Online platform and software for compitative and interview preparation. | 
 | [InterviewBit](https://www.interviewbit.com) | Features intriguing and refreshing game-play designs which are designed to invoke one's interest in practicing. |
 | [Awesome Interviews](https://github.com/MaximAbramchuck/awesome-interview-questions) | A curated list of awesome interview questions |
 | [LeetCode](https://leetcode.com) | Well-organized website for software engineering interview preparation with best explanined solutions.  |
