@@ -1,0 +1,52 @@
+Subset odd sum Ended
+Description
+
+Given an array A having N positive integers. Count the number of non-empty subsequences of array A such that for each subsequence, the sum of all it's elements is odd.
+
+
+Input
+First line: Single integer denoting the value of T - the number of test cases.
+
+For each test case:
+
+First line: Single integer denoting the value of N.
+
+Next line: N single space-separated integers denoting the elements of array A.
+
+Constraints:
+
+1 <= T <= 100
+1 <= N <= 15
+1 <= A[ i ] <= 100
+
+
+Output
+For each test case, print in a new line, a single integer denoting the required count of subsequences.
+
+
+Sample Input 1 
+
+2
+4
+4 3 2 1
+2
+2 3
+Sample Output 1
+
+8
+2
+Hint
+
+Given test cases:
+
+Test case 1:
+
+N = 4, A: [ 4, 3, 2, 1 ].
+Subsequences whose sum is odd are:
+{4, 3}, {4,3,2}, {4, 2, 1}, {4, 1}, {3}, {3, 2}, {1}, {2, 1}.
+
+Test case 2:
+
+N = 2, A: [ 2, 3 ].
+Subsequences whose sum of elements is even are:
+{3}, {2, 3}.

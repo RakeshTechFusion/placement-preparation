@@ -1,0 +1,31 @@
+Merge Sorting Ended
+Description
+
+You are given N numbers. Your task is to write MERGE SORT sorting algorithm (from scratch) to sort those N numbers.
+
+USING ANY OTHER ALGORITHM OR IN BUILT FUNCTION WOULD LEAD TO DISQUALIFICATION FROM NEXT HACKERRANK CONTEST
+
+
+Input
+Input Format:
+
+First line of input contains N
+
+Next line contains N space separated integers.
+
+Constraints:
+
+N < 1000000
+
+
+Output
+Output the sorted form of provided numbers
+
+
+Sample Input 1 
+
+5
+3 5 0 9 8
+Sample Output 1
+
+0 3 5 8 9
