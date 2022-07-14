@@ -1,0 +1,48 @@
+Everything related to Binary Search Ended
+Description
+
+Given a sorted array with repeating integers. You need to find the first occurence , last occurence and count of a given key in the array. USE ONLY BINARY SEARCH. Your algorithm should run in LogN time.If element is not present print -1 -1 0.
+
+
+Input
+Input Format
+
+First line contains N , then N integers in next line , then key in the next line.
+
+Constraints
+
+N<=1000000
+
+
+Output
+Output Format
+
+3 space separated integers for lower bound , upper bound and count/frequency of that key.
+
+
+Sample Input 1 
+
+6
+1 1 1 2 2 2	
+1
+Sample Output 1
+
+0 2 3
+Hint
+
+We need to find:first occurrence, last occurrence, and count of a given key in the array
+
+
+
+Sample Input
+
+1 1 1 2 2 2	
+1
+key = 1
+
+The first occurrence of key present at index = 0
+
+The last occurrence of key present at index = 2
+
+Count of a given key in the array = 3
+
