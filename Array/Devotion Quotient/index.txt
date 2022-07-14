@@ -1,0 +1,34 @@
+Devotion Quotient Ended
+Description
+
+There are N different students who have messaged Rahul their doubts. Rahul can reply to just one of them. Every student has a devotion quotient that determines how devoted the student is towards the course. Help Rahul determine the name of student to whom he should reply.
+
+
+Input
+Input Format:
+
+First line of input contains the value of N
+
+Next N line contains name and devotion quotient of N students separated by a space
+
+Constraints:
+
+N < 100
+
+name contains only lowercase alphabets [a-z]
+
+
+Output
+output one name which is the name of student with highest devotion quotient
+
+
+Sample Input 1 
+
+4
+ankit 10
+amit 40
+shivam 25
+shubham 33
+Sample Output 1
+
+amit
