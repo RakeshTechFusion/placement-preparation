@@ -1,0 +1,54 @@
+Product and Sum in Array Ended
+Description
+
+You are given an array stored in a variable with the namearr
+
+The size of the array is stored in a variable with the nameN
+
+You have to find the sum of product of elements present in array and the position at which they are present in the array.
+
+For example, if the size of array isN=5and the array isarr=[2,5,4,6,8].Therefore the required output is
+
+Value of product at position 1 = 2*1=2
+
+Value of product at position 2 = 5*2=10
+
+Value of product at position 3 = 4*3=12
+
+Value of product at position 4 = 6*4=24
+
+Value of product at position 5 = 8*5=40
+
+Value of sum of all products=2+10+12+24+40=88 , which is required answer.
+
+
+Input
+The first line of the input contains the value stored inN
+
+The next line contains the elements of the array, which are stored inarr
+
+
+Output
+Print the value of the sum, as explained in the problem statement
+
+Sample Input 1 
+
+5
+2 5 4 6 8
+Sample Output 1
+
+88
+Hint
+
+In the sample test case, he value stored inN = 5, andarr=[2,5,4,6,8]
+Value of product atposition 1 = 2*1=2
+
+Value of product atposition 2 = 5*2=10
+
+Value of product atposition 3 = 4*3=12
+
+Value of product atposition 4 = 6*4=24
+
+Value of product atposition 5 = 8*5=40
+
+Value ofsum of all products = 2 + 10 + 12 + 24 + 40 = 88, which is required answer.`
