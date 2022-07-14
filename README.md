@@ -1,4 +1,4 @@
-# Masai Competitive Programming [![Rakesh](https://github.com/SWAIN1998)
+# Masai Competitive Programming [Rakesh](https://github.com/SWAIN1998)
 
 A curated list of awesome `Competitive Programming`, `Algorithm` and `Data Structure` resources.
 
